@@ -1,0 +1,136 @@
+{
+  "Tasks": [
+    {
+      "TaskName": "\u9B54\u6CD5\u65F6\u4EE3",
+      "Actions": [
+        {
+          "ActionName": "\u5168\u90E8\u9886\u53D6",
+          "MonitorPositions": [
+            {
+              "X": -1865,
+              "Y": 232,
+              "ColorHex": "#FFBED3F5",
+              "ExpectedColor": {
+                "ColorContext": null,
+                "A": 255,
+                "R": 190,
+                "G": 211,
+                "B": 245,
+                "ScA": 1,
+                "ScR": 0.5149177,
+                "ScG": 0.65140563,
+                "ScB": 0.91309863
+              },
+              "IsClicking": false,
+              "DisplayString": "X:-1865, Y:232, Color:#FFBED3F5"
+            }
+          ],
+          "FormattedMonitorPositions": "X:-1865, Y:232, Color:#FFBED3F5",
+          "ClickInterval": 100,
+          "IsEditable": false,
+          "ActionType": "",
+          "ActionTime": "0001-01-01T00:00:00",
+          "MonitorX": -1865,
+          "MonitorY": 232,
+          "MonitorColor": "#FFBED3F5",
+          "DisplayColor": "#FFBED3F5"
+        },
+        {
+          "ActionName": "\u597D\u6781\u4E86",
+          "MonitorPositions": [
+            {
+              "X": -2211,
+              "Y": 933,
+              "ColorHex": "#FF89F02E",
+              "ExpectedColor": {
+                "ColorContext": null,
+                "A": 255,
+                "R": 137,
+                "G": 240,
+                "B": 46,
+                "ScA": 1,
+                "ScR": 0.2501583,
+                "ScG": 0.8713671,
+                "ScB": 0.027320893
+              },
+              "IsClicking": false,
+              "DisplayString": "X:-2211, Y:933, Color:#FF89F02E"
+            }
+          ],
+          "FormattedMonitorPositions": "X:-2211, Y:933, Color:#FF89F02E",
+          "ClickInterval": 100,
+          "IsEditable": false,
+          "ActionType": "",
+          "ActionTime": "0001-01-01T00:00:00",
+          "MonitorX": -2211,
+          "MonitorY": 933,
+          "MonitorColor": "#FF89F02E",
+          "DisplayColor": "#FF89F02E"
+        },
+        {
+          "ActionName": "",
+          "MonitorPositions": [],
+          "FormattedMonitorPositions": "",
+          "ClickInterval": 100,
+          "IsEditable": true,
+          "ActionType": "",
+          "ActionTime": "0001-01-01T00:00:00",
+          "MonitorX": 0,
+          "MonitorY": 0,
+          "MonitorColor": "",
+          "DisplayColor": "#FFFFFF"
+        }
+      ]
+    },
+    {
+      "TaskName": "TC",
+      "Actions": [
+        {
+          "ActionName": "\u53F3\u8FB9\u84DD\u8272",
+          "MonitorPositions": [
+            {
+              "X": 1137,
+              "Y": 175,
+              "ColorHex": "#FF2A4685",
+              "ExpectedColor": {
+                "ColorContext": null,
+                "A": 255,
+                "R": 42,
+                "G": 70,
+                "B": 133,
+                "ScA": 1,
+                "ScR": 0.023153368,
+                "ScG": 0.06124606,
+                "ScB": 0.23455061
+              },
+              "IsClicking": false,
+              "DisplayString": "X:1137, Y:175, Color:#FF2A4685"
+            }
+          ],
+          "FormattedMonitorPositions": "X:1137, Y:175, Color:#FF2A4685",
+          "ClickInterval": 100,
+          "IsEditable": false,
+          "ActionType": "",
+          "ActionTime": "0001-01-01T00:00:00",
+          "MonitorX": 1137,
+          "MonitorY": 175,
+          "MonitorColor": "#FF2A4685",
+          "DisplayColor": "#FF2A4685"
+        },
+        {
+          "ActionName": "",
+          "MonitorPositions": [],
+          "FormattedMonitorPositions": "",
+          "ClickInterval": 100,
+          "IsEditable": true,
+          "ActionType": "",
+          "ActionTime": "0001-01-01T00:00:00",
+          "MonitorX": 0,
+          "MonitorY": 0,
+          "MonitorColor": "",
+          "DisplayColor": "#FFFFFF"
+        }
+      ]
+    }
+  ]
+}
